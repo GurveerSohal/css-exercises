@@ -1,0 +1,13 @@
+.legit-button, .fake-button{
+    font-size: 28px;
+    font-family: "Heveletica", "Times New Roman", sans-serif;
+}
+
+.legit-button {
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.fake-button {
+    background-color: #ffff00;
+}
