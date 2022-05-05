@@ -1,0 +1,27 @@
+/* .container p {
+    background-color: hsl(57, 100%, 50%);
+    color:  hsl(20, 100%, 50%);
+    font-size: 30px;
+    text-align: center;
+} */
+
+/* div p {
+    background-color: hsl(57, 100%, 50%);
+    color:  hsl(20, 100%, 50%);
+    font-size: 30px;
+    text-align: center;
+} */
+
+/* .container .text {
+    background-color: hsl(57, 100%, 50%);
+    color:  hsl(20, 100%, 50%);
+    font-size: 30px;
+    text-align: center;
+} */
+
+div .text {
+    background-color: hsl(57, 100%, 50%);
+    color:  hsl(20, 100%, 50%);
+    font-size: 30px;
+    text-align: center;
+}
